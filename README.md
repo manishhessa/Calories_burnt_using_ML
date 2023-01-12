@@ -3,7 +3,7 @@ I have done this Project In Python using, using Regression Model. I have used so
 
 **Data Depiction**
 
-I have depicted all entities of Data in the form of plot to see the trend and so that we can draw inferences out of dataset given 
+I have depicted all entities of calories and exercise Data in the form of plot to see the trend and so that we can draw inferences out of dataset given . 
 
 **Inferences**
 
@@ -11,4 +11,4 @@ I have drawn some inference from data about correlation of all entities with eac
 
 **Uses**
 
-This project has wide uses in field of smart watches , where customers want their calories burnt measurement to be more and more precise .
+This project has wide uses in field of Health & Fitness and smart watches . Now a days users want their calories burnt measurement to be more accurate
