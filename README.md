@@ -11,4 +11,4 @@ I have drawn some inference from data about correlation of all entities with eac
 
 **Uses**
 
-This project has wide use 
+This project has wide uses in field of smart watches , where customers want their calories burnt measurement to be more and more precise .
