@@ -9,4 +9,6 @@ I have depicted all entities of Data in the form of plot to see the trend and so
 
 I have drawn some inference from data about correlation of all entities with each other for instance what happens to calories when duration of exercise is more or what happens to body temp when duration of exercise is more . I have depicted all these entities with the help of corellation plot where 1 means highly correlated and 0 means not at all correlated . 
 
+**Uses**
 
+This project has wide use 
